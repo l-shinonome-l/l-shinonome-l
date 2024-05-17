@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🏫 I'm a graduate student of Shanghaitech University.
+- 🔭 I’m currently studying in online learning and reinforcement learning.
+- 🌱 I’m perparing to find a job in autumn.
 <!--
 **l-shinonome-l/l-shinonome-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
